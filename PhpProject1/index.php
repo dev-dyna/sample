@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php 
-       echo "sample My edit changes";
+       echo "sample My edit changes Direct 2";
         ?>
     </body>
 </html>
